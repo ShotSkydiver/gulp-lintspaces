@@ -1,5 +1,5 @@
 {
-  "name": "gulp-lintspaces",
+  "name": "@shotskydiver/gulp-lintspaces",
   "version": "1.0.2",
   "description": "gulp plugin for lintspaces",
   "main": "index.js",
