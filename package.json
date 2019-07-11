@@ -1,6 +1,6 @@
 {
   "name": "@shotskydiver/gulp-lintspaces",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "gulp plugin for lintspaces",
   "main": "index.js",
   "repository": {
